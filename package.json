@@ -1,0 +1,16 @@
+{
+	"name":			"node-mongodb-matrix-multiplication",
+	"version":		"2014.12.28",
+	"repository":
+	{
+		"type":		"git",
+		"url":		"https://github.com/changyy/node-mongodb-matrix-multiplication.git"
+	},
+	"author": 		"Yuan-Yi Chang",
+	"main": 		"index.js",
+	"dependencies": {
+		"mongoose": 	"*",
+                "mongodb":	"*",
+		"async" :	"*"
+	}
+}
